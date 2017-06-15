@@ -14,12 +14,12 @@
     ],
     "require": {
         "php": ">=5.4.0",
-        "respect/validation": "0.8.*",
+        "respect/validation": "1.1.*",
         "guzzlehttp/guzzle": "~5.0"
     },
     "autoload": {
         "classmap": [
-            
+
         ],
         "psr-0": {
             "Sircamp\\Xenapi\\": "src/"
